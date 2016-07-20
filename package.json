@@ -1,0 +1,16 @@
+{
+  "name": "weblearn-type-name",
+  "version": "1.0.0",
+  "description": "Description here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "old": "^0.1.3",
+    "weblearn-tensor": "^1.0.0",
+    "weblearn-module": "^1.0.0"
+  },
+  "author": "Judd Keppel <kepzorz@gmail.com>",
+  "license": "ISC"
+}
